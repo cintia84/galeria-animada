@@ -14,13 +14,13 @@ body{
     justify-content: space-between;
 }
 .img1{
-    background-image: url(../IMAGENES/1.jpg);
+    background-image: url(1.jpg);
 }
 .img2{
-    background-image: url(../IMAGENES/2.jpg);
+    background-image: url(2.jpg);
 }
 .img3{
-    background-image: url(../IMAGENES/3.jpg);
+    background-image: url(3.jpg);
 }
 .item{
     width: 30%;
